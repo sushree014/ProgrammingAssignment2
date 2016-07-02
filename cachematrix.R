@@ -1,5 +1,5 @@
 
-
+# This Function gets the matrix and sets the inverse of the same when called by the cacheSolve function
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {
